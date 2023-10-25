@@ -1,0 +1,25 @@
+@charset "UTF-08";
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header>h1{
+    text-align: center;
+    padding: 10px;
+    background-color: aqua;
+
+}
+header>nav{
+    text-align: right;
+    background-color: gray;
+    padding: 8px;
+}
+header a{
+    text-align: right;
+    text-decoration: none;
+    padding: 10px;
+}
+header a:hover{
+    background-color: aqua;
+    color: black;
+}
